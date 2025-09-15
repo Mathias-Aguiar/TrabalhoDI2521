@@ -1,0 +1,18 @@
+.card-noticia {
+  transition: all 0.3s ease;
+}
+.preview-img {
+  max-height: 200px;
+  object-fit: cover;
+  margin-bottom: 10px;
+}
+.editor-form input,
+.editor-form textarea,
+.editor-form select {
+  margin-bottom: 10px;
+}
+.card-container {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
